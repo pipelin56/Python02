@@ -8,6 +8,6 @@ una palabra coincida con la primera de la siguiente palabra. Para probar el prog
 de palabras con las que vamos a trabajar son la que encontramos en el fichero ​
 pokemon.txt 
 
-####Grupo 09
+####Grupo 08
 + Felipe Bedoya Castaño
 + Jesús Mendoza Lara
